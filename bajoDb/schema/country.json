@@ -1,0 +1,43 @@
+{
+  "repoName": "country",
+  "connection": "memory",
+  "properties": [{
+    "name": "name",
+    "type": "string",
+    "length": 255,
+    "required": true,
+    "index": true
+  }, {
+    "name": "iso3",
+    "type": "string",
+    "length": 3,
+    "index": true
+  }, {
+    "name": "phoneCode",
+    "type": "string",
+    "length": 20,
+    "index": true
+  }, {
+    "name": "capital",
+    "type": "string",
+    "length": 50
+  }, {
+    "name": "currency",
+    "type": "string",
+    "length": 20,
+    "index": true
+  }, {
+    "name": "mmsi",
+    "type": "string",
+    "length": 50
+  }, {
+    "name": "ioc",
+    "type": "string",
+    "length": 20,
+    "index": true
+  }, {
+    "name": "bbox",
+    "type": "object"
+  }],
+  "readonly": true
+}

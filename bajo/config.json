@@ -1,0 +1,4 @@
+{
+  "alias": "cdb",
+  "dependencies": ["bajo-db"]
+}
