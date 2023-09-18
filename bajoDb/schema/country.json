@@ -28,8 +28,7 @@
     "index": true
   }, {
     "name": "mmsi",
-    "type": "string",
-    "length": 50
+    "type": "object"
   }, {
     "name": "ioc",
     "type": "string",
