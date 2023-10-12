@@ -1,6 +1,6 @@
 {
   "name": "bajo-common-db",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Common Database for Bajo Framework",
   "main": "index.js",
   "scripts": {

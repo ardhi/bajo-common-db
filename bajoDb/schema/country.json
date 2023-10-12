@@ -1,5 +1,5 @@
 {
-  "repoName": "country",
+  "collName": "country",
   "connection": "memory",
   "properties": [{
     "name": "name",
