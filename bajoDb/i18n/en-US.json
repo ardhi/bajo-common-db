@@ -1,0 +1,12 @@
+{
+  "field": {
+    "name": "Name",
+    "phoneCode": "Phone Code",
+    "iso3": "ISO 3",
+    "capital": "Capital",
+    "currency": "Currency",
+    "mmsi": "MMSI",
+    "ioc": "IOC",
+    "bbox": "BBOX"
+  }
+}

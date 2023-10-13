@@ -1,4 +1,5 @@
 {
   "alias": "cdb",
+  "title": "Common Database",
   "dependencies": ["bajo-db"]
 }

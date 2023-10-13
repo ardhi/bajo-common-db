@@ -1,0 +1,13 @@
+{
+  "field": {
+    "name": "Nama",
+    "phoneCode": "Kode Telpon",
+    "iso3": "ISO 3",
+    "capital": "Ibu Kota",
+    "currency": "Mata Uang",
+    "mmsi": "MMSI",
+    "ioc": "IOC",
+    "bbox": "BBOX",
+    "title": "Judul"
+  }
+}
