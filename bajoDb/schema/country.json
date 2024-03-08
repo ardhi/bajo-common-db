@@ -28,7 +28,7 @@
     "index": true
   }, {
     "name": "mmsi",
-    "type": "object"
+    "type": "array"
   }, {
     "name": "ioc",
     "type": "string",
@@ -36,7 +36,7 @@
     "index": true
   }, {
     "name": "bbox",
-    "type": "object"
+    "type": "array"
   }],
   "readonly": true
 }
