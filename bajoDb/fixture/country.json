@@ -1369,7 +1369,7 @@
     "phoneCode": "423",
     "capital": "Vaduz",
     "currency": "CHF",
-    "mmsi": null,
+    "mmsi": [252],
     "id": "LI",
     "ioc": "LIE",
     "bbox": [9.4716736,47.0484291,9.6357143,47.270581]
