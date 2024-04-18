@@ -38,5 +38,6 @@
     "name": "bbox",
     "type": "array"
   }],
-  "readonly": true
+  "readonly": true,
+  "attachment": false
 }
