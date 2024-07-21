@@ -6,7 +6,7 @@ Plugin name: **bajoCommonDb**, alias: **cdb**
 
 > <br />**Attention**: I do NOT accept any pull request at the moment, thanks!<br /><br />
 
-Common database for [Bajo Framework](https://github.com/ardhi/bajo)
+Common database for [Bajo](https://github.com/ardhi/bajo)
 
 ## Installation
 
