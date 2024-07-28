@@ -1,4 +1,4 @@
 {
-  "coll": "CdbCountry",
+  "model": "CdbCountry",
   "disabled": ["create", "update", "remove"]
 }

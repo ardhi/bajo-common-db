@@ -1,5 +1,5 @@
 {
-  "collName": "country",
+  "modelName": "country",
   "connection": "memory",
   "properties": [{
     "name": "name",
