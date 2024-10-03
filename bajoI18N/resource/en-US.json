@@ -1,0 +1,11 @@
+{
+  "field": {
+    "iso3": "ISO 3",
+    "phoneCode": "Phone Code",
+    "capital": "Capital",
+    "currency": "Currency",
+    "mmsi": "MMSI",
+    "ioc": "IOC",
+    "bbox": "Bounding Box"
+  }
+}

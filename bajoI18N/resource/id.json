@@ -1,0 +1,11 @@
+{
+  "field": {
+    "iso3": "ISO 3",
+    "phoneCode": "Kode Telpon",
+    "capital": "Ibukota",
+    "currency": "Mata Uang",
+    "mmsi": "MMSI",
+    "ioc": "IOC",
+    "bbox": "Kotak Batas"
+  }
+}
