@@ -1,0 +1,16 @@
+{
+  "common": {
+  },
+  "view": {
+    "list": {
+      "qs": {
+        "fields": "id,iso3,name,ioc",
+        "sort": "name:-1",
+        "limit": 10
+      },
+      "fields": ["name", "id", "ioc", "bbox"]
+    },
+    "details": {
+    }
+  }
+}

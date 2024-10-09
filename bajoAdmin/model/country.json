@@ -1,8 +1,0 @@
-{
-  "view": {
-    "list": {
-      "hidden": ["level", "bookId", "meta"],
-      "defSort": "id:1"
-    }
-  }
-}

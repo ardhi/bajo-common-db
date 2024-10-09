@@ -2,6 +2,12 @@
   "modelName": "country",
   "connection": "memory",
   "properties": [{
+    "name": "id",
+    "type": "string",
+    "length": 2,
+    "required": true,
+    "index": "primary"
+  }, {
     "name": "name",
     "type": "string",
     "length": 255,
