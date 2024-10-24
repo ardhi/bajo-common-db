@@ -33,17 +33,17 @@
     "length": 20,
     "index": true
   }, {
-    "name": "mmsi",
-    "type": "array"
-  }, {
     "name": "ioc",
     "type": "string",
     "length": 20,
     "index": true
   }, {
+    "name": "mids",
+    "type": "array"
+  }, {
     "name": "bbox",
     "type": "array"
   }],
-  "readonly": true,
+  "disabled": "readonly",
   "attachment": false
 }
