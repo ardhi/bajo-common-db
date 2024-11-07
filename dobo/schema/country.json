@@ -1,5 +1,4 @@
 {
-  "modelName": "country",
   "connection": "memory",
   "properties": [{
     "name": "id",
