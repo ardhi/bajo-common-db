@@ -1,6 +1,6 @@
 {
   "name": "bajo-common-db",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common Database for Bajo Framework",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,5 @@
   "bugs": {
     "url": "https://github.com/ardhi/bajo-common-db/issues"
   },
-  "homepage": "https://github.com/ardhi/bajo-common-db#readme",
-  "dependencies": {
-    "kea-nmea": "^0.1.1"
-  }
+  "homepage": "https://github.com/ardhi/bajo-common-db#readme"
 }
