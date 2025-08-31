@@ -1,7 +1,7 @@
 async function factory (pkgName) {
   const me = this
 
-  return class BajoCommonDb extends this.lib.Plugin {
+  return class BajoCommonDb extends this.app.pluginClass.base {
     static alias = 'cdb'
 
     constructor () {
