@@ -1,0 +1,50 @@
+{
+  "plugins": ["plugins/markdown", "jsdoc-plugin-intersection"],
+  "opts": {
+    "encoding": "utf8",
+    "recurse": true,
+    "verbose": true,
+    "destination": "./docs",
+    "template": "node_modules/clean-jsdoc-theme",
+    "tutorials": "./tutorial",
+    "readme": "../shared/static/home.md",
+    "theme_opts": {
+      "default_theme": "light",
+      "display-module-header": true,
+      "title": "Bajo Common DB",
+      "homepageTitle": "Bajo Common DB",
+      "sections": ["Tutorials", "Classes", "Events", "Modules", "Global"],
+      "menu": [{
+        "title": "Bajo",
+        "link": "https://bajo.app"
+      }, {
+        "title": "NPM",
+        "link": "https://www.npmjs.com/package/bajo-common-db"
+      }, {
+        "title": "Github",
+        "link": "https://github.com/ardhi/bajo-common-db"
+      }]
+    }
+  },
+  "source": {
+    "include": ["."],
+    "includePattern": ".+\\.js(doc|x)?$",
+    "exclude": ["node_modules", "docs", "test"]
+  },
+  "markdown": {
+    "hardwrap": false,
+    "idInHeadings": true
+  },
+  "sourceType": "module",
+  "templates": {
+    "cleverLinks": false,
+    "monospaceLinks": false,
+    "default": {
+      "staticFiles": {
+        "include": [
+          "../shared"
+        ]
+      }
+    }
+  }
+}

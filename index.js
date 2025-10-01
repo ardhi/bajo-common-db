@@ -1,7 +1,18 @@
+/**
+ * Plugin factory
+ *
+ * @param {string} pkgName - NPM package name
+ * @returns {class}
+ */
 async function factory (pkgName) {
   const me = this
 
-  return class BajoCommonDb extends this.app.pluginClass.base {
+  /**
+   * BajoCommonDb class
+   *
+   * @class
+   */
+  class BajoCommonDb extends this.app.pluginClass.base {
     static alias = 'cdb'
 
     constructor () {
@@ -11,6 +22,8 @@ async function factory (pkgName) {
       }
     }
   }
+
+  return BajoCommonDb
 }
 
 export default factory
