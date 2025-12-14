@@ -14,7 +14,7 @@ First, go to your ```{app-dir}``` and run the following command in your terminal
 $ npm install bajo-common-db
 ```
 
-Next, open the file located at ```{data-dir}/config/.plugins``` and add ```bajo-common-db```
+And enable the plugin by adding ```dobo``` and ```bajo-common-db``` to the plugin list in either the ```$dataDir/config/.plugins``` file or the ```bajo.plugins``` array within your ```package.json``` file
 
 ## Documentations
 
