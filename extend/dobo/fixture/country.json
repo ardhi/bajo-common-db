@@ -5,7 +5,7 @@
     "phoneCode": "93",
     "capital": "Kabul",
     "currency": "AFN",
-    "mids": [401],
+    "mmsi": [401],
     "id": "AF",
     "ioc": "AFG",
     "bbox": [60.5176034,29.3772,74.889862,38.4910682]
@@ -16,7 +16,7 @@
     "phoneCode": "+358-18",
     "capital": "Mariehamn",
     "currency": "EUR",
-    "mids": null,
+    "mmsi": null,
     "id": "AX",
     "ioc": null,
     "bbox": [19.0832098,59.4541578,21.3456556,60.87665]
@@ -27,7 +27,7 @@
     "phoneCode": "355",
     "capital": "Tirana",
     "currency": "ALL",
-    "mids": [201],
+    "mmsi": [201],
     "id": "AL",
     "ioc": "ALB",
     "bbox": [19.1246095,39.6448625,21.0574335,42.6610848]
@@ -38,7 +38,7 @@
     "phoneCode": "213",
     "capital": "Algiers",
     "currency": "DZD",
-    "mids": [605],
+    "mmsi": [605],
     "id": "DZ",
     "ioc": "ALG",
     "bbox": [-8.668908,18.968147,11.997337,37.2962055]
@@ -49,7 +49,7 @@
     "phoneCode": "+1-684",
     "capital": "Pago Pago",
     "currency": "USD",
-    "mids": [559],
+    "mmsi": [559],
     "id": "AS",
     "ioc": "ASA",
     "bbox": [-171.2951296,-14.7608358,-167.9322899,-10.8449746]
@@ -60,7 +60,7 @@
     "phoneCode": "376",
     "capital": "Andorra la Vella",
     "currency": "EUR",
-    "mids": [202],
+    "mmsi": [202],
     "id": "AD",
     "ioc": "AND",
     "bbox": [1.4135781,42.4288238,1.7863837,42.6559357]
@@ -71,7 +71,7 @@
     "phoneCode": "244",
     "capital": "Luanda",
     "currency": "AOA",
-    "mids": [603],
+    "mmsi": [603],
     "id": "AO",
     "ioc": "ANG",
     "bbox": [11.4609793,-18.038945,24.0878856,-4.3880634]
@@ -82,7 +82,7 @@
     "phoneCode": "+1-264",
     "capital": "The Valley",
     "currency": "XCD",
-    "mids": [301],
+    "mmsi": [301],
     "id": "AI",
     "ioc": null,
     "bbox": [-63.6391992,18.0615454,-62.7125449,18.7951194]
@@ -93,7 +93,7 @@
     "phoneCode": null,
     "capital": null,
     "currency": null,
-    "mids": null,
+    "mmsi": null,
     "id": "AQ",
     "ioc": null,
     "bbox": [-180,-85.0511287,180,-60]
@@ -104,7 +104,7 @@
     "phoneCode": "+1-268",
     "capital": "St. John's",
     "currency": "XCD",
-    "mids": [304, 305],
+    "mmsi": [304, 305],
     "id": "AG",
     "ioc": "ANT",
     "bbox": [-62.5536517,16.7573901,-61.447857,17.929]
@@ -115,7 +115,7 @@
     "phoneCode": "54",
     "capital": "Buenos Aires",
     "currency": "ARS",
-    "mids": [701],
+    "mmsi": [701],
     "id": "AR",
     "ioc": "ARG",
     "bbox": [-73.5600329,-55.1850761,-53.6374515,-21.781168]
@@ -126,7 +126,7 @@
     "phoneCode": "374",
     "capital": "Yerevan",
     "currency": "AMD",
-    "mids": [216],
+    "mmsi": [216],
     "id": "AM",
     "ioc": "ARM",
     "bbox": [43.4471395,38.8404775,46.6333087,41.300712]
@@ -137,7 +137,7 @@
     "phoneCode": "297",
     "capital": "Oranjestad",
     "currency": "AWG",
-    "mids": [307],
+    "mmsi": [307],
     "id": "AW",
     "ioc": "ARU",
     "bbox": [-70.2809842,12.1702998,-69.6409842,12.8102998]
@@ -148,7 +148,7 @@
     "phoneCode": "61",
     "capital": "Canberra",
     "currency": "AUD",
-    "mids": [503],
+    "mmsi": [503],
     "id": "AU",
     "ioc": "AUS",
     "bbox": [72.2460938,-55.3228175,168.2249543,-9.0882278]
@@ -159,7 +159,7 @@
     "phoneCode": "43",
     "capital": "Vienna",
     "currency": "EUR",
-    "mids": [203],
+    "mmsi": [203],
     "id": "AT",
     "ioc": "AUT",
     "bbox": [9.5307487,46.3722761,17.160776,49.0205305]
@@ -170,7 +170,7 @@
     "phoneCode": "994",
     "capital": "Baku",
     "currency": "AZN",
-    "mids": [423],
+    "mmsi": [423],
     "id": "AZ",
     "ioc": "AZE",
     "bbox": [44.7633701,38.3929551,51.0090302,41.9502947]
@@ -181,7 +181,7 @@
     "phoneCode": "+1-242",
     "capital": "Nassau",
     "currency": "BSD",
-    "mids": [308, 309, 311],
+    "mmsi": [308, 309, 311],
     "id": "BS",
     "ioc": "BAH",
     "bbox": [-80.7001941,20.7059846,-72.4477521,27.4734551]
@@ -192,7 +192,7 @@
     "phoneCode": "973",
     "capital": "Manama",
     "currency": "BHD",
-    "mids": [408],
+    "mmsi": [408],
     "id": "BH",
     "ioc": "BRN",
     "bbox": [50.2697989,25.535,50.9233693,26.6872444]
@@ -203,7 +203,7 @@
     "phoneCode": "880",
     "capital": "Dhaka",
     "currency": "BDT",
-    "mids": [405],
+    "mmsi": [405],
     "id": "BD",
     "ioc": "BAN",
     "bbox": [88.0075306,20.3756582,92.6804979,26.6382534]
@@ -214,7 +214,7 @@
     "phoneCode": "+1-246",
     "capital": "Bridgetown",
     "currency": "BBD",
-    "mids": [314],
+    "mmsi": [314],
     "id": "BB",
     "ioc": "BAR",
     "bbox": [-59.8562115,12.845,-59.2147175,13.535]
@@ -225,7 +225,7 @@
     "phoneCode": "375",
     "capital": "Minsk",
     "currency": "BYR",
-    "mids": [206],
+    "mmsi": [206],
     "id": "BY",
     "ioc": "BLR",
     "bbox": [23.1783344,51.2575982,32.7627809,56.17218]
@@ -236,7 +236,7 @@
     "phoneCode": "32",
     "capital": "Brussels",
     "currency": "EUR",
-    "mids": [205],
+    "mmsi": [205],
     "id": "BE",
     "ioc": "BEL",
     "bbox": [2.3889137,49.4969821,6.408097,51.5516667]
@@ -247,7 +247,7 @@
     "phoneCode": "501",
     "capital": "Belmopan",
     "currency": "BZD",
-    "mids": [312],
+    "mmsi": [312],
     "id": "BZ",
     "ioc": "BIZ",
     "bbox": [-89.2262083,15.8857286,-87.3098494,18.496001]
@@ -258,7 +258,7 @@
     "phoneCode": "229",
     "capital": "Porto-Novo",
     "currency": "XOF",
-    "mids": [610],
+    "mmsi": [610],
     "id": "BJ",
     "ioc": "BEN",
     "bbox": [0.776667,6.0398696,3.843343,12.4092447]
@@ -269,7 +269,7 @@
     "phoneCode": "+1-441",
     "capital": "Hamilton",
     "currency": "BMD",
-    "mids": [310],
+    "mmsi": [310],
     "id": "BM",
     "ioc": "BER",
     "bbox": [-65.1232222,32.0469651,-64.4109842,32.5913693]
@@ -280,7 +280,7 @@
     "phoneCode": "975",
     "capital": "Thimphu",
     "currency": "BTN",
-    "mids": [410],
+    "mmsi": [410],
     "id": "BT",
     "ioc": "BHU",
     "bbox": [88.7464724,26.702016,92.1252321,28.246987]
@@ -291,7 +291,7 @@
     "phoneCode": "591",
     "capital": "Sucre",
     "currency": "BOB",
-    "mids": [720],
+    "mmsi": [720],
     "id": "BO",
     "ioc": "BOL",
     "bbox": [-69.6450073,-22.8982742,-57.453,-9.6689438]
@@ -302,7 +302,7 @@
     "phoneCode": "387",
     "capital": "Sarajevo",
     "currency": "BAM",
-    "mids": [478],
+    "mmsi": [478],
     "id": "BA",
     "ioc": "BIH",
     "bbox": [15.7287433,42.5553114,19.6237311,45.2764135]
@@ -313,7 +313,7 @@
     "phoneCode": "267",
     "capital": "Gaborone",
     "currency": "BWP",
-    "mids": [611],
+    "mmsi": [611],
     "id": "BW",
     "ioc": "BOT",
     "bbox": [19.9986474,-26.9059669,29.375304,-17.778137]
@@ -324,7 +324,7 @@
     "phoneCode": null,
     "capital": null,
     "currency": "NOK",
-    "mids": null,
+    "mmsi": null,
     "id": "BV",
     "ioc": null,
     "bbox": [2.9345531,-54.654,3.7791099,-54.187]
@@ -335,7 +335,7 @@
     "phoneCode": "55",
     "capital": "Brasilia",
     "currency": "BRL",
-    "mids": [710],
+    "mmsi": [710],
     "id": "BR",
     "ioc": "BRA",
     "bbox": [-73.9830625,-33.8689056,-28.6341164,5.2842873]
@@ -346,7 +346,7 @@
     "phoneCode": "246",
     "capital": "Diego Garcia",
     "currency": "USD",
-    "mids": null,
+    "mmsi": null,
     "id": "IO",
     "ioc": null,
     "bbox": [71.036504,-7.6454079,72.7020157,-5.037066]
@@ -357,7 +357,7 @@
     "phoneCode": "673",
     "capital": "Bandar Seri Begawan",
     "currency": "BND",
-    "mids": [508],
+    "mmsi": [508],
     "id": "BN",
     "ioc": "BRU",
     "bbox": [114.0758734,4.002508,115.3635623,5.1011857]
@@ -368,7 +368,7 @@
     "phoneCode": "359",
     "capital": "Sofia",
     "currency": "BGN",
-    "mids": [207],
+    "mmsi": [207],
     "id": "BG",
     "ioc": "BUL",
     "bbox": [22.3571459,41.2353929,28.8875409,44.2167064]
@@ -379,7 +379,7 @@
     "phoneCode": "226",
     "capital": "Ouagadougou",
     "currency": "XOF",
-    "mids": [633],
+    "mmsi": [633],
     "id": "BF",
     "ioc": "BUR",
     "bbox": [-5.5132416,9.4104718,2.4089717,15.084]
@@ -390,7 +390,7 @@
     "phoneCode": "257",
     "capital": "Bujumbura",
     "currency": "BIF",
-    "mids": [609],
+    "mmsi": [609],
     "id": "BI",
     "ioc": "BDI",
     "bbox": [29.0007401,-4.4693155,30.8498462,-2.3096796]
@@ -401,7 +401,7 @@
     "phoneCode": "855",
     "capital": "Phnom Penh",
     "currency": "KHR",
-    "mids": [514, 515],
+    "mmsi": [514, 515],
     "id": "KH",
     "ioc": "CAM",
     "bbox": [102.3338282,9.4752639,107.6276788,14.6904224]
@@ -412,7 +412,7 @@
     "phoneCode": "237",
     "capital": "Yaounde",
     "currency": "XAF",
-    "mids": [613],
+    "mmsi": [613],
     "id": "CM",
     "ioc": "CMR",
     "bbox": [8.3822176,1.6546659,16.1921476,13.083333]
@@ -423,7 +423,7 @@
     "phoneCode": "1",
     "capital": "Ottawa",
     "currency": "CAD",
-    "mids": [316],
+    "mmsi": [316],
     "id": "CA",
     "ioc": "CAN",
     "bbox": [-141.00275,41.6765556,-52.3231981,83.3362128]
@@ -434,7 +434,7 @@
     "phoneCode": "238",
     "capital": "Praia",
     "currency": "CVE",
-    "mids": [617],
+    "mmsi": [617],
     "id": "CV",
     "ioc": "CPV",
     "bbox": [-25.3609478,14.8031546,-22.6673416,17.2053108]
@@ -445,7 +445,7 @@
     "phoneCode": "+1-345",
     "capital": "George Town",
     "currency": "KYD",
-    "mids": [319],
+    "mmsi": [319],
     "id": "KY",
     "ioc": "CAY",
     "bbox": [-81.6313748,19.0620619,-79.5110954,19.9573759]
@@ -456,7 +456,7 @@
     "phoneCode": "236",
     "capital": "Bangui",
     "currency": "XAF",
-    "mids": [612],
+    "mmsi": [612],
     "id": "CF",
     "ioc": "CAF",
     "bbox": [14.4155426,2.2156553,27.4540764,11.001389]
@@ -467,7 +467,7 @@
     "phoneCode": "235",
     "capital": "N'Djamena",
     "currency": "XAF",
-    "mids": [670],
+    "mmsi": [670],
     "id": "TD",
     "ioc": "CHA",
     "bbox": [13.47348,7.44107,24,23.4975]
@@ -478,7 +478,7 @@
     "phoneCode": "56",
     "capital": "Santiago",
     "currency": "CLP",
-    "mids": [725],
+    "mmsi": [725],
     "id": "CL",
     "ioc": "CHI",
     "bbox": [-109.6795789,-56.725,-66.0753474,-17.4983998]
@@ -489,7 +489,7 @@
     "phoneCode": "86",
     "capital": "Beijing",
     "currency": "CNY",
-    "mids": [412, 413, 414],
+    "mmsi": [412, 413, 414],
     "id": "CN",
     "ioc": "CHN",
     "bbox": [73.4997347,8.8383436,134.7754563,53.5608154]
@@ -500,7 +500,7 @@
     "phoneCode": "61",
     "capital": "Flying Fish Cove",
     "currency": "AUD",
-    "mids": [516],
+    "mmsi": [516],
     "id": "CX",
     "ioc": null,
     "bbox": [105.5336422,-10.5698515,105.7130159,-10.4123553]
@@ -511,7 +511,7 @@
     "phoneCode": "61",
     "capital": "West Island",
     "currency": "AUD",
-    "mids": [523],
+    "mmsi": [523],
     "id": "CC",
     "ioc": null,
     "bbox": [96.612524,-12.4055983,97.1357343,-11.6213132]
@@ -522,7 +522,7 @@
     "phoneCode": "57",
     "capital": "Bogota",
     "currency": "COP",
-    "mids": [730],
+    "mmsi": [730],
     "id": "CO",
     "ioc": "COL",
     "bbox": [-82.1243666,-4.2316872,-66.8511907,16.0571269]
@@ -533,7 +533,7 @@
     "phoneCode": "269",
     "capital": "Moroni",
     "currency": "KMF",
-    "mids": [616, 620],
+    "mmsi": [616, 620],
     "id": "KM",
     "ioc": "COM",
     "bbox": [43.025305,-12.621,44.7451922,-11.165]
@@ -544,7 +544,7 @@
     "phoneCode": "242",
     "capital": "Brazzaville",
     "currency": "XAF",
-    "mids": [615, 676],
+    "mmsi": [615, 676],
     "id": "CG",
     "ioc": "CGO",
     "bbox": [11.0048205,-5.149089,18.643611,3.713056]
@@ -555,7 +555,7 @@
     "phoneCode": "243",
     "capital": "Kinshasa",
     "currency": "CDF",
-    "mids": null,
+    "mmsi": null,
     "id": "CD",
     "ioc": "COD",
     "bbox": [12.039074,-13.459035,31.3056758,5.3920026]
@@ -566,7 +566,7 @@
     "phoneCode": "682",
     "capital": "Avarua",
     "currency": "NZD",
-    "mids": [518],
+    "mmsi": [518],
     "id": "CK",
     "ioc": "COK",
     "bbox": [-166.0856468,-22.15807,-157.1089329,-8.7168792]
@@ -577,7 +577,7 @@
     "phoneCode": "506",
     "capital": "San Jose",
     "currency": "CRC",
-    "mids": [321],
+    "mmsi": [321],
     "id": "CR",
     "ioc": "CRC",
     "bbox": [-87.2722647,5.3329698,-82.5060208,11.2195684]
@@ -588,7 +588,7 @@
     "phoneCode": "225",
     "capital": "Yamoussoukro",
     "currency": "XOF",
-    "mids": [619],
+    "mmsi": [619],
     "id": "CI",
     "ioc": "CIV",
     "bbox": [-8.601725,4.1621205,-2.493031,10.740197]
@@ -599,7 +599,7 @@
     "phoneCode": "385",
     "capital": "Zagreb",
     "currency": "HRK",
-    "mids": [238],
+    "mmsi": [238],
     "id": "HR",
     "ioc": "CRO",
     "bbox": [13.2104814,42.1765993,19.4470842,46.555029]
@@ -610,7 +610,7 @@
     "phoneCode": "53",
     "capital": "Havana",
     "currency": "CUP",
-    "mids": [323],
+    "mmsi": [323],
     "id": "CU",
     "ioc": "CUB",
     "bbox": [-85.1679702,19.6275294,-73.9190004,23.4816972]
@@ -621,7 +621,7 @@
     "phoneCode": "357",
     "capital": "Nicosia",
     "currency": "EUR",
-    "mids": [209, 210, 212],
+    "mmsi": [209, 210, 212],
     "id": "CY",
     "ioc": "CYP",
     "bbox": [32.0227581,34.4383706,34.8553182,35.913252]
@@ -632,7 +632,7 @@
     "phoneCode": "420",
     "capital": "Prague",
     "currency": "CZK",
-    "mids": [270],
+    "mmsi": [270],
     "id": "CZ",
     "ioc": "CZE",
     "bbox": [12.0905901,48.5518083,18.859216,51.0557036]
@@ -643,7 +643,7 @@
     "phoneCode": "45",
     "capital": "Copenhagen",
     "currency": "DKK",
-    "mids": [219, 220, 231],
+    "mmsi": [219, 220, 231],
     "id": "DK",
     "ioc": "DEN",
     "bbox": [7.7153255,54.4516667,15.5530641,57.9524297]
@@ -654,7 +654,7 @@
     "phoneCode": "253",
     "capital": "Djibouti",
     "currency": "DJF",
-    "mids": [621],
+    "mmsi": [621],
     "id": "DJ",
     "ioc": "DJI",
     "bbox": [41.7713139,10.9149547,43.6579046,12.7923081]
@@ -665,7 +665,7 @@
     "phoneCode": "+1-767",
     "capital": "Roseau",
     "currency": "XCD",
-    "mids": [325],
+    "mmsi": [325],
     "id": "DM",
     "ioc": "DMA",
     "bbox": [-61.6869184,15.0074207,-61.0329895,15.7872222]
@@ -676,7 +676,7 @@
     "phoneCode": "+1-809 and 1-829",
     "capital": "Santo Domingo",
     "currency": "DOP",
-    "mids": [327],
+    "mmsi": [327],
     "id": "DO",
     "ioc": "DOM",
     "bbox": [-72.0574706,17.2701708,-68.1101463,21.303433]
@@ -687,7 +687,7 @@
     "phoneCode": "670",
     "capital": "Dili",
     "currency": "USD",
-    "mids": [550],
+    "mmsi": [550],
     "id": "TL",
     "ioc": "TLS",
     "bbox": [124.0415703,-9.5642775,127.5335392,-8.0895459]
@@ -698,7 +698,7 @@
     "phoneCode": "593",
     "capital": "Quito",
     "currency": "USD",
-    "mids": [735],
+    "mmsi": [735],
     "id": "EC",
     "ioc": "ECU",
     "bbox": [-92.2072392,-5.0159314,-75.192504,1.8835964]
@@ -709,7 +709,7 @@
     "phoneCode": "20",
     "capital": "Cairo",
     "currency": "EGP",
-    "mids": [622],
+    "mmsi": [622],
     "id": "EG",
     "ioc": "EGY",
     "bbox": [24.6499112,22,37.1153517,31.8330854]
@@ -720,7 +720,7 @@
     "phoneCode": "503",
     "capital": "San Salvador",
     "currency": "USD",
-    "mids": [359],
+    "mmsi": [359],
     "id": "SV",
     "ioc": "ESA",
     "bbox": [-90.1790975,12.976046,-87.6351394,14.4510488]
@@ -731,7 +731,7 @@
     "phoneCode": "240",
     "capital": "Malabo",
     "currency": "XAF",
-    "mids": [631],
+    "mmsi": [631],
     "id": "GQ",
     "ioc": "GEQ",
     "bbox": [5.4172943,-1.6732196,11.3598628,3.989]
@@ -742,7 +742,7 @@
     "phoneCode": "291",
     "capital": "Asmara",
     "currency": "ERN",
-    "mids": [625],
+    "mmsi": [625],
     "id": "ER",
     "ioc": "ERI",
     "bbox": [36.4333653,12.3548219,43.3001714,18.0709917]
@@ -753,7 +753,7 @@
     "phoneCode": "372",
     "capital": "Tallinn",
     "currency": "EUR",
-    "mids": [276],
+    "mmsi": [276],
     "id": "EE",
     "ioc": "EST",
     "bbox": [21.3826069,57.5092997,28.2100175,59.9383754]
@@ -764,7 +764,7 @@
     "phoneCode": "251",
     "capital": "Addis Ababa",
     "currency": "ETB",
-    "mids": [624],
+    "mmsi": [624],
     "id": "ET",
     "ioc": "ETH",
     "bbox": [32.9975838,3.397448,47.9823797,14.8940537]
@@ -775,7 +775,7 @@
     "phoneCode": "500",
     "capital": "Stanley",
     "currency": "FKP",
-    "mids": [740],
+    "mmsi": [740],
     "id": "FK",
     "ioc": null,
     "bbox": [-61.7726772,-53.1186766,-57.3662367,-50.7973007]
@@ -786,7 +786,7 @@
     "phoneCode": "298",
     "capital": "Torshavn",
     "currency": "DKK",
-    "mids": null,
+    "mmsi": null,
     "id": "FO",
     "ioc": "FAI",
     "bbox": [-7.6882939,61.3915553,-6.2565525,62.3942991]
@@ -797,7 +797,7 @@
     "phoneCode": "679",
     "capital": "Suva",
     "currency": "FJD",
-    "mids": [520],
+    "mmsi": [520],
     "id": "FJ",
     "ioc": "FIJ",
     "bbox": [172,-21.9434274,-178.5,-12.2613866]
@@ -808,7 +808,7 @@
     "phoneCode": "358",
     "capital": "Helsinki",
     "currency": "EUR",
-    "mids": [230],
+    "mmsi": [230],
     "id": "FI",
     "ioc": "FIN",
     "bbox": [19.0832098,59.4541578,31.5867071,70.0922939]
@@ -819,7 +819,7 @@
     "phoneCode": "33",
     "capital": "Paris",
     "currency": "EUR",
-    "mids": [226, 227, 228, 501, 607, 618, 635],
+    "mmsi": [226, 227, 228, 501, 607, 618, 635],
     "id": "FR",
     "ioc": "FRA",
     "bbox": [-5.4534286,41.2632185,9.8678344,51.268318]
@@ -830,7 +830,7 @@
     "phoneCode": "594",
     "capital": "Cayenne",
     "currency": "EUR",
-    "mids": [745],
+    "mmsi": [745],
     "id": "GF",
     "ioc": null,
     "bbox": [-54.60278,2.112222,-51.6346139,5.7507111]
@@ -841,7 +841,7 @@
     "phoneCode": "689",
     "capital": "Papeete",
     "currency": "XPF",
-    "mids": [546],
+    "mmsi": [546],
     "id": "PF",
     "ioc": null,
     "bbox": [-154.9360599,-28.0990232,-134.244799,-7.6592173]
@@ -852,7 +852,7 @@
     "phoneCode": null,
     "capital": "Port-aux-Francais",
     "currency": "EUR",
-    "mids": null,
+    "mmsi": null,
     "id": "TF",
     "ioc": null,
     "bbox": [39.4138676,-50.2187169,77.8494974,-11.3139928]
@@ -863,7 +863,7 @@
     "phoneCode": "241",
     "capital": "Libreville",
     "currency": "XAF",
-    "mids": [626],
+    "mmsi": [626],
     "id": "GA",
     "ioc": "GAB",
     "bbox": [8.5002246,-4.1012261,14.539444,2.3182171]
@@ -874,7 +874,7 @@
     "phoneCode": "220",
     "capital": "Banjul",
     "currency": "GMD",
-    "mids": [629],
+    "mmsi": [629],
     "id": "GM",
     "ioc": "GAM",
     "bbox": [-17.0288254,13.061,-13.797778,13.8253137]
@@ -885,7 +885,7 @@
     "phoneCode": "995",
     "capital": "Tbilisi",
     "currency": "GEL",
-    "mids": [213],
+    "mmsi": [213],
     "id": "GE",
     "ioc": "GEO",
     "bbox": [39.8844803,41.0552922,46.7365373,43.5864294]
@@ -896,7 +896,7 @@
     "phoneCode": "49",
     "capital": "Berlin",
     "currency": "EUR",
-    "mids": [211, 218],
+    "mmsi": [211, 218],
     "id": "DE",
     "ioc": "GER",
     "bbox": [5.8663153,47.2701114,15.0419319,55.099161]
@@ -907,7 +907,7 @@
     "phoneCode": "233",
     "capital": "Accra",
     "currency": "GHS",
-    "mids": [627],
+    "mmsi": [627],
     "id": "GH",
     "ioc": "GHA",
     "bbox": [-3.260786,4.5392525,1.2732942,11.1748562]
@@ -918,7 +918,7 @@
     "phoneCode": "350",
     "capital": "Gibraltar",
     "currency": "GIP",
-    "mids": [236],
+    "mmsi": [236],
     "id": "GI",
     "ioc": null,
     "bbox": [-5.3941295,36.100807,-5.3141295,36.180807]
@@ -929,7 +929,7 @@
     "phoneCode": "30",
     "capital": "Athens",
     "currency": "EUR",
-    "mids": [237, 238, 239, 240, 241],
+    "mmsi": [237, 238, 239, 240, 241],
     "id": "GR",
     "ioc": "GRE",
     "bbox": [19.2477876,34.7006096,29.7296986,41.7488862]
@@ -940,7 +940,7 @@
     "phoneCode": "299",
     "capital": "Nuuk",
     "currency": "DKK",
-    "mids": [331],
+    "mmsi": [331],
     "id": "GL",
     "ioc": null,
     "bbox": [-74.1250416,59.515387,-10.0288759,83.875172]
@@ -951,7 +951,7 @@
     "phoneCode": "+1-473",
     "capital": "St. George's",
     "currency": "XCD",
-    "mids": [330],
+    "mmsi": [330],
     "id": "GD",
     "ioc": "GRN",
     "bbox": [-62.0065868,11.786,-61.1732143,12.5966532]
@@ -962,7 +962,7 @@
     "phoneCode": "590",
     "capital": "Basse-Terre",
     "currency": "EUR",
-    "mids": [329],
+    "mmsi": [329],
     "id": "GP",
     "ioc": null,
     "bbox": [-61.809764,15.8320085,-61.0003663,16.5144664]
@@ -973,7 +973,7 @@
     "phoneCode": "+1-671",
     "capital": "Hagatna",
     "currency": "USD",
-    "mids": null,
+    "mmsi": null,
     "id": "GU",
     "ioc": "GUM",
     "bbox": [144.563426,13.182335,145.009167,13.706179]
@@ -984,7 +984,7 @@
     "phoneCode": "502",
     "capital": "Guatemala City",
     "currency": "GTQ",
-    "mids": [332],
+    "mmsi": [332],
     "id": "GT",
     "ioc": "GUA",
     "bbox": [-92.3105242,13.6345804,-88.1755849,17.8165947]
@@ -995,7 +995,7 @@
     "phoneCode": "+44-1481",
     "capital": "St Peter Port",
     "currency": "GBP",
-    "mids": null,
+    "mmsi": null,
     "id": "GG",
     "ioc": "GCI",
     "bbox": [-2.6751703,49.4155331,-2.501814,49.5090776]
@@ -1006,7 +1006,7 @@
     "phoneCode": "224",
     "capital": "Conakry",
     "currency": "GNF",
-    "mids": [632],
+    "mmsi": [632],
     "id": "GN",
     "ioc": "GUI",
     "bbox": [-15.5680508,7.1906045,-7.6381993,12.67563]
@@ -1017,7 +1017,7 @@
     "phoneCode": "245",
     "capital": "Bissau",
     "currency": "XOF",
-    "mids": [630],
+    "mmsi": [630],
     "id": "GW",
     "ioc": "GBS",
     "bbox": [-16.894523,10.6514215,-13.6348777,12.6862384]
@@ -1028,7 +1028,7 @@
     "phoneCode": "592",
     "capital": "Georgetown",
     "currency": "GYD",
-    "mids": [750],
+    "mmsi": [750],
     "id": "GY",
     "ioc": "GUY",
     "bbox": [-61.414905,1.1710017,-56.4689543,8.6038842]
@@ -1039,7 +1039,7 @@
     "phoneCode": "509",
     "capital": "Port-au-Prince",
     "currency": "HTG",
-    "mids": [336],
+    "mmsi": [336],
     "id": "HT",
     "ioc": "HAI",
     "bbox": [-75.2384618,17.9099291,-71.6217461,20.2181368]
@@ -1050,7 +1050,7 @@
     "phoneCode": " ",
     "capital": null,
     "currency": "AUD",
-    "mids": null,
+    "mmsi": null,
     "id": "HM",
     "ioc": null,
     "bbox": [72.2460938,-53.394741,74.1988754,-52.7030677]
@@ -1061,7 +1061,7 @@
     "phoneCode": "504",
     "capital": "Tegucigalpa",
     "currency": "HNL",
-    "mids": [334],
+    "mmsi": [334],
     "id": "HN",
     "ioc": "HON",
     "bbox": [-89.3568207,12.9808485,-82.1729621,17.619526]
@@ -1072,7 +1072,7 @@
     "phoneCode": "852",
     "capital": "Hong Kong",
     "currency": "HKD",
-    "mids": [477],
+    "mmsi": [477],
     "id": "HK",
     "ioc": "HKG",
     "bbox": [114.0028131,22.1193278,114.3228131,22.4393278]
@@ -1083,7 +1083,7 @@
     "phoneCode": "36",
     "capital": "Budapest",
     "currency": "HUF",
-    "mids": [243],
+    "mmsi": [243],
     "id": "HU",
     "ioc": "HUN",
     "bbox": [16.1138867,45.737128,22.8977094,48.585257]
@@ -1094,7 +1094,7 @@
     "phoneCode": "354",
     "capital": "Reykjavik",
     "currency": "ISK",
-    "mids": [251],
+    "mmsi": [251],
     "id": "IS",
     "ioc": "ISL",
     "bbox": [-25.0135069,63.0859177,-12.8046162,67.353]
@@ -1105,7 +1105,7 @@
     "phoneCode": "91",
     "capital": "New Delhi",
     "currency": "INR",
-    "mids": [419],
+    "mmsi": [419],
     "id": "IN",
     "ioc": "IND",
     "bbox": [68.1113787,6.5546079,97.395561,35.6745457]
@@ -1116,7 +1116,7 @@
     "phoneCode": "62",
     "capital": "Jakarta",
     "currency": "IDR",
-    "mids": [525],
+    "mmsi": [525],
     "id": "ID",
     "ioc": "INA",
     "bbox": [94.7717124,-11.2085669,141.0194444,6.2744496]
@@ -1127,7 +1127,7 @@
     "phoneCode": "98",
     "capital": "Tehran",
     "currency": "IRR",
-    "mids": [422],
+    "mmsi": [422],
     "id": "IR",
     "ioc": "IRI",
     "bbox": [44.0318908,24.8465103,63.3332704,39.7816502]
@@ -1138,7 +1138,7 @@
     "phoneCode": "964",
     "capital": "Baghdad",
     "currency": "IQD",
-    "mids": [425],
+    "mmsi": [425],
     "id": "IQ",
     "ioc": "IRQ",
     "bbox": [38.7936719,29.0585661,48.8412702,37.380932]
@@ -1149,7 +1149,7 @@
     "phoneCode": "353",
     "capital": "Dublin",
     "currency": "EUR",
-    "mids": [250],
+    "mmsi": [250],
     "id": "IE",
     "ioc": "IRL",
     "bbox": [-11.0133788,51.222,-5.6582363,55.636]
@@ -1160,7 +1160,7 @@
     "phoneCode": "972",
     "capital": "Jerusalem",
     "currency": "ILS",
-    "mids": [428],
+    "mmsi": [428],
     "id": "IL",
     "ioc": "ISR",
     "bbox": [34.2674994,29.4533796,35.8950234,33.3356317]
@@ -1171,7 +1171,7 @@
     "phoneCode": "39",
     "capital": "Rome",
     "currency": "EUR",
-    "mids": [247],
+    "mmsi": [247],
     "id": "IT",
     "ioc": "ITA",
     "bbox": [6.6272658,35.2889616,18.7844746,47.0921462]
@@ -1182,7 +1182,7 @@
     "phoneCode": "+1-876",
     "capital": "Kingston",
     "currency": "JMD",
-    "mids": [339],
+    "mmsi": [339],
     "id": "JM",
     "ioc": "JAM",
     "bbox": [-78.5782366,16.5899443,-75.7541143,18.7256394]
@@ -1193,7 +1193,7 @@
     "phoneCode": "81",
     "capital": "Tokyo",
     "currency": "JPY",
-    "mids": [431, 432],
+    "mmsi": [431, 432],
     "id": "JP",
     "ioc": "JPN",
     "bbox": [122.7141754,20.2145811,154.205541,45.7112046]
@@ -1204,7 +1204,7 @@
     "phoneCode": "+44-1534",
     "capital": "Saint Helier",
     "currency": "GBP",
-    "mids": null,
+    "mmsi": null,
     "id": "JE",
     "ioc": "JCI",
     "bbox": [-2.254512,49.1625179,-2.0104193,49.2621288]
@@ -1215,7 +1215,7 @@
     "phoneCode": "962",
     "capital": "Amman",
     "currency": "JOD",
-    "mids": [438],
+    "mmsi": [438],
     "id": "JO",
     "ioc": "JOR",
     "bbox": [34.8844372,29.183401,39.3012981,33.3750617]
@@ -1226,7 +1226,7 @@
     "phoneCode": "7",
     "capital": "Astana",
     "currency": "KZT",
-    "mids": [436],
+    "mmsi": [436],
     "id": "KZ",
     "ioc": "KAZ",
     "bbox": [46.4932179,40.5686476,87.3156316,55.4421701]
@@ -1237,7 +1237,7 @@
     "phoneCode": "254",
     "capital": "Nairobi",
     "currency": "KES",
-    "mids": [634],
+    "mmsi": [634],
     "id": "KE",
     "ioc": "KEN",
     "bbox": [33.9098987,-4.8995204,41.899578,4.62]
@@ -1248,7 +1248,7 @@
     "phoneCode": "686",
     "capital": "Tarawa",
     "currency": "AUD",
-    "mids": [529],
+    "mmsi": [529],
     "id": "KI",
     "ioc": "KIR",
     "bbox": [-179.1645388,-7.0516717,-164.1645388,7.9483283]
@@ -1259,7 +1259,7 @@
     "phoneCode": "850",
     "capital": "Pyongyang",
     "currency": "KPW",
-    "mids": [445],
+    "mmsi": [445],
     "id": "KP",
     "ioc": "PRK",
     "bbox": [124.0913902,37.5867855,130.924647,43.0089642]
@@ -1270,7 +1270,7 @@
     "phoneCode": "82",
     "capital": "Seoul",
     "currency": "KRW",
-    "mids": [440, 441],
+    "mmsi": [440, 441],
     "id": "KR",
     "ioc": "KOR",
     "bbox": [124.354847,32.9104556,132.1467806,38.623477]
@@ -1281,7 +1281,7 @@
     "phoneCode": "965",
     "capital": "Kuwait City",
     "currency": "KWD",
-    "mids": [447],
+    "mmsi": [447],
     "id": "KW",
     "ioc": "KUW",
     "bbox": [46.5526837,28.5243622,49.0046809,30.1038082]
@@ -1292,7 +1292,7 @@
     "phoneCode": "996",
     "capital": "Bishkek",
     "currency": "KGS",
-    "mids": [451],
+    "mmsi": [451],
     "id": "KG",
     "ioc": "KGZ",
     "bbox": [69.2649523,39.1728437,80.2295793,43.2667971]
@@ -1303,7 +1303,7 @@
     "phoneCode": "856",
     "capital": "Vientiane",
     "currency": "LAK",
-    "mids": [531],
+    "mmsi": [531],
     "id": "LA",
     "ioc": "LAO",
     "bbox": [100.0843247,13.9096752,107.6349989,22.5086717]
@@ -1314,7 +1314,7 @@
     "phoneCode": "371",
     "capital": "Riga",
     "currency": "EUR",
-    "mids": [275],
+    "mmsi": [275],
     "id": "LV",
     "ioc": "LAT",
     "bbox": [20.6715407,55.6746505,28.2414904,58.0855688]
@@ -1325,7 +1325,7 @@
     "phoneCode": "961",
     "capital": "Beirut",
     "currency": "LBP",
-    "mids": [450],
+    "mmsi": [450],
     "id": "LB",
     "ioc": "LIB",
     "bbox": [34.8825667,33.0479858,36.625,34.6923543]
@@ -1336,7 +1336,7 @@
     "phoneCode": "266",
     "capital": "Maseru",
     "currency": "LSL",
-    "mids": [644],
+    "mmsi": [644],
     "id": "LS",
     "ioc": "LES",
     "bbox": [27.0114632,-30.6772773,29.4557099,-28.570615]
@@ -1347,7 +1347,7 @@
     "phoneCode": "231",
     "capital": "Monrovia",
     "currency": "LRD",
-    "mids": [636, 637],
+    "mmsi": [636, 637],
     "id": "LR",
     "ioc": "LBR",
     "bbox": [-11.6080764,4.1555907,-7.367323,8.5519861]
@@ -1358,7 +1358,7 @@
     "phoneCode": "218",
     "capital": "Tripolis",
     "currency": "LYD",
-    "mids": [642],
+    "mmsi": [642],
     "id": "LY",
     "ioc": "LBA",
     "bbox": [9.391081,19.5008138,25.3770629,33.3545898]
@@ -1369,7 +1369,7 @@
     "phoneCode": "423",
     "capital": "Vaduz",
     "currency": "CHF",
-    "mids": [252],
+    "mmsi": [252],
     "id": "LI",
     "ioc": "LIE",
     "bbox": [9.4716736,47.0484291,9.6357143,47.270581]
@@ -1380,7 +1380,7 @@
     "phoneCode": "370",
     "capital": "Vilnius",
     "currency": "LTL",
-    "mids": [277],
+    "mmsi": [277],
     "id": "LT",
     "ioc": "LTU",
     "bbox": [20.653783,53.8967893,26.8355198,56.4504213]
@@ -1391,7 +1391,7 @@
     "phoneCode": "352",
     "capital": "Luxembourg",
     "currency": "EUR",
-    "mids": [253],
+    "mmsi": [253],
     "id": "LU",
     "ioc": "LUX",
     "bbox": [4.9684415,49.4969821,6.0344254,50.430377]
@@ -1402,7 +1402,7 @@
     "phoneCode": "853",
     "capital": "Macao",
     "currency": "MOP",
-    "mids": [453],
+    "mmsi": [453],
     "id": "MO",
     "ioc": "MAC",
     "bbox": [113.5281666,22.0766667,113.6301389,22.2170361]
@@ -1413,7 +1413,7 @@
     "phoneCode": "389",
     "capital": "Skopje",
     "currency": "MKD",
-    "mids": [274],
+    "mmsi": [274],
     "id": "MK",
     "ioc": "MKD",
     "bbox": [20.4529023,40.8536596,23.034051,42.3735359]
@@ -1424,7 +1424,7 @@
     "phoneCode": "261",
     "capital": "Antananarivo",
     "currency": "MGA",
-    "mids": [647],
+    "mmsi": [647],
     "id": "MG",
     "ioc": "MAD",
     "bbox": [43.2202072,-25.6071002,50.4862553,-11.9519693]
@@ -1435,7 +1435,7 @@
     "phoneCode": "265",
     "capital": "Lilongwe",
     "currency": "MWK",
-    "mids": [655],
+    "mmsi": [655],
     "id": "MW",
     "ioc": "MAW",
     "bbox": [32.6703616,-17.1296031,35.9185731,-9.3683261]
@@ -1446,7 +1446,7 @@
     "phoneCode": "60",
     "capital": "Kuala Lumpur",
     "currency": "MYR",
-    "mids": [533],
+    "mmsi": [533],
     "id": "MY",
     "ioc": "MAS",
     "bbox": [105.3471939,-5.1076241,120.3471939,9.8923759]
@@ -1457,7 +1457,7 @@
     "phoneCode": "960",
     "capital": "Male",
     "currency": "MVR",
-    "mids": [455],
+    "mmsi": [455],
     "id": "MV",
     "ioc": "MDV",
     "bbox": [72.3554187,-0.9074935,73.9700962,7.3106246]
@@ -1468,7 +1468,7 @@
     "phoneCode": "223",
     "capital": "Bamako",
     "currency": "XOF",
-    "mids": [649],
+    "mmsi": [649],
     "id": "ML",
     "ioc": "MLI",
     "bbox": [-12.2402835,10.147811,4.2673828,25.001084]
@@ -1479,7 +1479,7 @@
     "phoneCode": "356",
     "capital": "Valletta",
     "currency": "EUR",
-    "mids": [215, 229, 248, 249, 256],
+    "mmsi": [215, 229, 248, 249, 256],
     "id": "MT",
     "ioc": "MLT",
     "bbox": [13.9324226,35.6029696,14.8267966,36.2852706]
@@ -1490,7 +1490,7 @@
     "phoneCode": "+44-1624",
     "capital": "Douglas, Isle of Man",
     "currency": "GBP",
-    "mids": null,
+    "mmsi": null,
     "id": "IM",
     "ioc": null,
     "bbox": [-4.7946845,54.0539576,-4.3076853,54.4178705]
@@ -1501,7 +1501,7 @@
     "phoneCode": "692",
     "capital": "Majuro",
     "currency": "USD",
-    "mids": [538],
+    "mmsi": [538],
     "id": "MH",
     "ioc": "MHL",
     "bbox": [163.4985095,-0.5481258,178.4985095,14.4518742]
@@ -1512,7 +1512,7 @@
     "phoneCode": "596",
     "capital": "Fort-de-France",
     "currency": "EUR",
-    "mids": [347],
+    "mmsi": [347],
     "id": "MQ",
     "ioc": null,
     "bbox": [-61.2290815,14.3948596,-60.8095833,14.8787029]
@@ -1523,7 +1523,7 @@
     "phoneCode": "222",
     "capital": "Nouakchott",
     "currency": "MRO",
-    "mids": [654],
+    "mmsi": [654],
     "id": "MR",
     "ioc": "MTN",
     "bbox": [-17.068081,14.7209909,-4.8333344,27.314942]
@@ -1534,7 +1534,7 @@
     "phoneCode": "230",
     "capital": "Port Louis",
     "currency": "MUR",
-    "mids": [645],
+    "mmsi": [645],
     "id": "MU",
     "ioc": "MRI",
     "bbox": [56.3825151,-20.725,63.7151319,-10.138]
@@ -1545,7 +1545,7 @@
     "phoneCode": "262",
     "capital": "Mamoudzou",
     "currency": "EUR",
-    "mids": null,
+    "mmsi": null,
     "id": "YT",
     "ioc": null,
     "bbox": [45.0183298,-13.0210119,45.2999917,-12.6365902]
@@ -1556,7 +1556,7 @@
     "phoneCode": "52",
     "capital": "Mexico City",
     "currency": "MXN",
-    "mids": [345],
+    "mmsi": [345],
     "id": "MX",
     "ioc": "MEX",
     "bbox": [-118.59919,14.3886243,-86.493266,32.7186553]
@@ -1567,7 +1567,7 @@
     "phoneCode": "691",
     "capital": "Palikir",
     "currency": "USD",
-    "mids": [510],
+    "mmsi": [510],
     "id": "FM",
     "ioc": "FSM",
     "bbox": [137.2234512,0.827,163.2364054,10.291]
@@ -1578,7 +1578,7 @@
     "phoneCode": "373",
     "capital": "Chisinau",
     "currency": "MDL",
-    "mids": [214],
+    "mmsi": [214],
     "id": "MD",
     "ioc": "MDA",
     "bbox": [26.6162189,45.4674139,30.1636756,48.4918695]
@@ -1589,7 +1589,7 @@
     "phoneCode": "377",
     "capital": "Monaco",
     "currency": "EUR",
-    "mids": [254],
+    "mmsi": [254],
     "id": "MC",
     "ioc": "MON",
     "bbox": [7.4090279,43.7247599,7.4398704,43.7519311]
@@ -1600,7 +1600,7 @@
     "phoneCode": "976",
     "capital": "Ulan Bator",
     "currency": "MNT",
-    "mids": [457],
+    "mmsi": [457],
     "id": "MN",
     "ioc": "MGL",
     "bbox": [87.73762,41.5800276,119.931949,52.1496]
@@ -1611,7 +1611,7 @@
     "phoneCode": "382",
     "capital": "Podgorica",
     "currency": "EUR",
-    "mids": [262],
+    "mmsi": [262],
     "id": "ME",
     "ioc": "MNE",
     "bbox": [18.4195781,41.7495999,20.3561641,43.5585061]
@@ -1622,7 +1622,7 @@
     "phoneCode": "+1-664",
     "capital": "Plymouth",
     "currency": "XCD",
-    "mids": [348],
+    "mmsi": [348],
     "id": "MS",
     "ioc": null,
     "bbox": [-62.450667,16.475,-61.9353818,17.0152978]
@@ -1633,7 +1633,7 @@
     "phoneCode": "212",
     "capital": "Rabat",
     "currency": "MAD",
-    "mids": [242],
+    "mmsi": [242],
     "id": "MA",
     "ioc": "MAR",
     "bbox": [-17.2551456,21.3365321,-0.998429,36.0505269]
@@ -1644,7 +1644,7 @@
     "phoneCode": "258",
     "capital": "Maputo",
     "currency": "MZN",
-    "mids": [650],
+    "mmsi": [650],
     "id": "MZ",
     "ioc": "MOZ",
     "bbox": [30.2138197,-26.9209427,41.0545908,-10.3252149]
@@ -1655,7 +1655,7 @@
     "phoneCode": "95",
     "capital": "Nay Pyi Taw",
     "currency": "MMK",
-    "mids": [506],
+    "mmsi": [506],
     "id": "MM",
     "ioc": "MYA",
     "bbox": [92.1719423,9.4399432,101.1700796,28.547835]
@@ -1666,7 +1666,7 @@
     "phoneCode": "264",
     "capital": "Windhoek",
     "currency": "NAD",
-    "mids": [659],
+    "mmsi": [659],
     "id": "NA",
     "ioc": "NAM",
     "bbox": [11.5280384,-28.96945,25.2617671,-16.9634855]
@@ -1677,7 +1677,7 @@
     "phoneCode": "674",
     "capital": "Yaren",
     "currency": "AUD",
-    "mids": [544],
+    "mmsi": [544],
     "id": "NR",
     "ioc": "NRU",
     "bbox": [166.9091794,-0.5541334,166.9589235,-0.5025906]
@@ -1688,7 +1688,7 @@
     "phoneCode": "977",
     "capital": "Kathmandu",
     "currency": "NPR",
-    "mids": [459],
+    "mmsi": [459],
     "id": "NP",
     "ioc": "NEP",
     "bbox": [80.0586226,26.3477581,88.2015257,30.446945]
@@ -1699,7 +1699,7 @@
     "phoneCode": null,
     "capital": null,
     "currency": null,
-    "mids": null,
+    "mmsi": null,
     "id": "AN",
     "ioc": null,
     "bbox": [-68.940593,12.1544542,-68.9403518,12.1547472]
@@ -1710,7 +1710,7 @@
     "phoneCode": "31",
     "capital": "Amsterdam",
     "currency": "EUR",
-    "mids": [244, 245, 246, 306],
+    "mmsi": [244, 245, 246, 306],
     "id": "NL",
     "ioc": "NED",
     "bbox": [1.9193492,50.7295671,7.2274985,53.7253321]
@@ -1721,7 +1721,7 @@
     "phoneCode": "687",
     "capital": "Noumea",
     "currency": "XPF",
-    "mids": [540],
+    "mmsi": [540],
     "id": "NC",
     "ioc": null,
     "bbox": [162.6034343,-23.2217509,167.8109827,-17.6868616]
@@ -1732,7 +1732,7 @@
     "phoneCode": "64",
     "capital": "Wellington",
     "currency": "NZD",
-    "mids": [512],
+    "mmsi": [512],
     "id": "NZ",
     "ioc": "NZL",
     "bbox": [-179.059153,-52.8213687,179.3643594,-29.0303303]
@@ -1743,7 +1743,7 @@
     "phoneCode": "505",
     "capital": "Managua",
     "currency": "NIO",
-    "mids": [350],
+    "mmsi": [350],
     "id": "NI",
     "ioc": "NCA",
     "bbox": [-87.901532,10.7076565,-82.6227023,15.0331183]
@@ -1754,7 +1754,7 @@
     "phoneCode": "227",
     "capital": "Niamey",
     "currency": "XOF",
-    "mids": [656],
+    "mmsi": [656],
     "id": "NE",
     "ioc": "NIG",
     "bbox": [0.1689653,11.693756,15.996667,23.517178]
@@ -1765,7 +1765,7 @@
     "phoneCode": "234",
     "capital": "Abuja",
     "currency": "NGN",
-    "mids": [657],
+    "mmsi": [657],
     "id": "NG",
     "ioc": "NGR",
     "bbox": [2.676932,4.0690959,14.678014,13.885645]
@@ -1776,7 +1776,7 @@
     "phoneCode": "683",
     "capital": "Alofi",
     "currency": "NZD",
-    "mids": [542],
+    "mmsi": [542],
     "id": "NU",
     "ioc": null,
     "bbox": [-170.1595029,-19.3548665,-169.5647229,-18.7534559]
@@ -1787,7 +1787,7 @@
     "phoneCode": "672",
     "capital": "Kingston",
     "currency": "AUD",
-    "mids": null,
+    "mmsi": null,
     "id": "NF",
     "ioc": null,
     "bbox": [167.6873878,-29.333,168.2249543,-28.796]
@@ -1798,7 +1798,7 @@
     "phoneCode": "+1-670",
     "capital": "Saipan",
     "currency": "USD",
-    "mids": [536],
+    "mmsi": [536],
     "id": "MP",
     "ioc": null,
     "bbox": [144.813338,14.036565,146.154418,20.616556]
@@ -1809,7 +1809,7 @@
     "phoneCode": "47",
     "capital": "Oslo",
     "currency": "NOK",
-    "mids": [257, 258, 259],
+    "mmsi": [257, 258, 259],
     "id": "NO",
     "ioc": "NOR",
     "bbox": [4.0875274,57.7590052,31.7614911,71.3848787]
@@ -1820,7 +1820,7 @@
     "phoneCode": "968",
     "capital": "Muscat",
     "currency": "OMR",
-    "mids": [461],
+    "mmsi": [461],
     "id": "OM",
     "ioc": "OMA",
     "bbox": [52,16.4649608,60.054577,26.7026737]
@@ -1831,7 +1831,7 @@
     "phoneCode": "92",
     "capital": "Islamabad",
     "currency": "PKR",
-    "mids": [463],
+    "mmsi": [463],
     "id": "PK",
     "ioc": "PAK",
     "bbox": [60.872855,23.5393916,77.1203914,37.084107]
@@ -1842,7 +1842,7 @@
     "phoneCode": "680",
     "capital": "Melekeok",
     "currency": "USD",
-    "mids": [511],
+    "mmsi": [511],
     "id": "PW",
     "ioc": "PLW",
     "bbox": [131.0685462,2.748,134.7714735,8.222]
@@ -1853,7 +1853,7 @@
     "phoneCode": "970",
     "capital": "East Jerusalem",
     "currency": "ILS",
-    "mids": [443],
+    "mmsi": [443],
     "id": "PS",
     "ioc": "PLE",
     "bbox": [34.0689732,31.2201289,35.5739235,32.5521479]
@@ -1864,7 +1864,7 @@
     "phoneCode": "507",
     "capital": "Panama City",
     "currency": "PAB",
-    "mids": [351, 352, 353, 354, 355, 356, 357, 370, 371, 372, 373, 374],
+    "mmsi": [351, 352, 353, 354, 355, 356, 357, 370, 371, 372, 373, 374],
     "id": "PA",
     "ioc": "PAN",
     "bbox": [-83.0517245,7.0338679,-77.1393779,9.8701757]
@@ -1875,7 +1875,7 @@
     "phoneCode": "675",
     "capital": "Port Moresby",
     "currency": "PGK",
-    "mids": [553],
+    "mmsi": [553],
     "id": "PG",
     "ioc": "PNG",
     "bbox": [136.7489081,-13.1816069,151.7489081,1.8183931]
@@ -1886,7 +1886,7 @@
     "phoneCode": "595",
     "capital": "Asuncion",
     "currency": "PYG",
-    "mids": [755],
+    "mmsi": [755],
     "id": "PY",
     "ioc": "PAR",
     "bbox": [-62.6442036,-27.6063935,-54.258,-19.2876472]
@@ -1897,7 +1897,7 @@
     "phoneCode": "51",
     "capital": "Lima",
     "currency": "PEN",
-    "mids": [760],
+    "mmsi": [760],
     "id": "PE",
     "ioc": "PER",
     "bbox": [-84.6356535,-20.1984472,-68.6519906,-0.0392818]
@@ -1908,7 +1908,7 @@
     "phoneCode": "63",
     "capital": "Manila",
     "currency": "PHP",
-    "mids": [548],
+    "mmsi": [548],
     "id": "PH",
     "ioc": "PHI",
     "bbox": [114.0952145,4.2158064,126.8072562,21.3217806]
@@ -1919,7 +1919,7 @@
     "phoneCode": "870",
     "capital": "Adamstown",
     "currency": "NZD",
-    "mids": [555],
+    "mmsi": [555],
     "id": "PN",
     "ioc": null,
     "bbox": [-130.8049862,-25.1306736,-124.717534,-23.8655769]
@@ -1930,7 +1930,7 @@
     "phoneCode": "48",
     "capital": "Warsaw",
     "currency": "PLN",
-    "mids": [261],
+    "mmsi": [261],
     "id": "PL",
     "ioc": "POL",
     "bbox": [14.1229707,49.0020468,24.145783,55.0336963]
@@ -1941,7 +1941,7 @@
     "phoneCode": "351",
     "capital": "Lisbon",
     "currency": "EUR",
-    "mids": [204, 255, 263],
+    "mmsi": [204, 255, 263],
     "id": "PT",
     "ioc": "POR",
     "bbox": [-31.5575303,29.8288021,-6.1891593,42.1543112]
@@ -1952,7 +1952,7 @@
     "phoneCode": "+1-787 and 1-939",
     "capital": "San Juan",
     "currency": "USD",
-    "mids": [358],
+    "mmsi": [358],
     "id": "PR",
     "ioc": "PUR",
     "bbox": [-67.271492,17.9268695,-65.5897525,18.5159789]
@@ -1963,7 +1963,7 @@
     "phoneCode": "974",
     "capital": "Doha",
     "currency": "QAR",
-    "mids": [466],
+    "mmsi": [466],
     "id": "QA",
     "ioc": "QAT",
     "bbox": [50.5675,24.4707534,52.638011,26.3830212]
@@ -1974,7 +1974,7 @@
     "phoneCode": "262",
     "capital": "Saint-Denis",
     "currency": "EUR",
-    "mids": [660],
+    "mmsi": [660],
     "id": "RE",
     "ioc": null,
     "bbox": [55.2164268,-21.3897308,55.8366924,-20.8717136]
@@ -1985,7 +1985,7 @@
     "phoneCode": "40",
     "capital": "Bucharest",
     "currency": "RON",
-    "mids": [264],
+    "mmsi": [264],
     "id": "RO",
     "ioc": "ROU",
     "bbox": [20.2619773,43.618682,30.0454257,48.2653964]
@@ -1996,7 +1996,7 @@
     "phoneCode": "7",
     "capital": "Moscow",
     "currency": "RUB",
-    "mids": [273],
+    "mmsi": [273],
     "id": "RU",
     "ioc": "RUS",
     "bbox": [19.6389,41.1850968,180,82.0586232]
@@ -2007,7 +2007,7 @@
     "phoneCode": "250",
     "capital": "Kigali",
     "currency": "RWF",
-    "mids": [661],
+    "mmsi": [661],
     "id": "RW",
     "ioc": "RWA",
     "bbox": [28.8617546,-2.8389804,30.8990738,-1.0474083]
@@ -2018,7 +2018,7 @@
     "phoneCode": "290",
     "capital": "Jamestown",
     "currency": "SHP",
-    "mids": [665],
+    "mmsi": [665],
     "id": "SH",
     "ioc": null,
     "bbox": [-5.9973424,-16.23,-5.4234153,-15.704]
@@ -2029,7 +2029,7 @@
     "phoneCode": "+1-869",
     "capital": "Basseterre",
     "currency": "XCD",
-    "mids": [341],
+    "mmsi": [341],
     "id": "KN",
     "ioc": "SKN",
     "bbox": [-63.051129,16.895,-62.3303519,17.6158146]
@@ -2040,7 +2040,7 @@
     "phoneCode": "+1-758",
     "capital": "Castries",
     "currency": "XCD",
-    "mids": [343],
+    "mmsi": [343],
     "id": "LC",
     "ioc": "LCA",
     "bbox": [-61.2853867,13.508,-60.6669363,14.2725]
@@ -2051,7 +2051,7 @@
     "phoneCode": "508",
     "capital": "Saint-Pierre",
     "currency": "EUR",
-    "mids": [361],
+    "mmsi": [361],
     "id": "PM",
     "ioc": null,
     "bbox": [-56.6972961,46.5507173,-55.9033333,47.365]
@@ -2062,7 +2062,7 @@
     "phoneCode": "+1-784",
     "capital": "Kingstown",
     "currency": "XCD",
-    "mids": [375, 376, 377],
+    "mmsi": [375, 376, 377],
     "id": "VC",
     "ioc": "VIN",
     "bbox": [-61.6657471,12.5166548,-60.9094146,13.583]
@@ -2073,7 +2073,7 @@
     "phoneCode": "590",
     "capital": "Gustavia",
     "currency": "EUR",
-    "mids": null,
+    "mmsi": null,
     "id": "BL",
     "ioc": null,
     "bbox": [-63.06639,17.670931,-62.5844019,18.1375569]
@@ -2084,7 +2084,7 @@
     "phoneCode": "590",
     "capital": "Marigot",
     "currency": "EUR",
-    "mids": null,
+    "mmsi": null,
     "id": "MF",
     "ioc": null,
     "bbox": [-63.3605643,17.8963535,-62.7644063,18.1902778]
@@ -2095,7 +2095,7 @@
     "phoneCode": "685",
     "capital": "Apia",
     "currency": "WST",
-    "mids": [561],
+    "mmsi": [561],
     "id": "WS",
     "ioc": "SAM",
     "bbox": [-173.0091864,-14.2770916,-171.1929229,-13.2381892]
@@ -2106,7 +2106,7 @@
     "phoneCode": "378",
     "capital": "San Marino",
     "currency": "EUR",
-    "mids": [268],
+    "mmsi": [268],
     "id": "SM",
     "ioc": "SMR",
     "bbox": [12.4033246,43.8937002,12.5160665,43.992093]
@@ -2117,7 +2117,7 @@
     "phoneCode": "239",
     "capital": "Sao Tome",
     "currency": "STD",
-    "mids": [668],
+    "mmsi": [668],
     "id": "ST",
     "ioc": "STP",
     "bbox": [6.260642,-0.2135137,7.6704783,1.9257601]
@@ -2128,7 +2128,7 @@
     "phoneCode": "966",
     "capital": "Riyadh",
     "currency": "SAR",
-    "mids": [403],
+    "mmsi": [403],
     "id": "SA",
     "ioc": "KSA",
     "bbox": [34.4571718,16.29,55.6666851,32.1543377]
@@ -2139,7 +2139,7 @@
     "phoneCode": "221",
     "capital": "Dakar",
     "currency": "XOF",
-    "mids": [663],
+    "mmsi": [663],
     "id": "SN",
     "ioc": "SEN",
     "bbox": [-17.7862419,12.2372838,-11.3458996,16.6919712]
@@ -2150,7 +2150,7 @@
     "phoneCode": "381",
     "capital": "Belgrade",
     "currency": "RSD",
-    "mids": [279],
+    "mmsi": [279],
     "id": "RS",
     "ioc": "SRB",
     "bbox": [18.8142875,42.2322435,23.006309,46.1900524]
@@ -2161,7 +2161,7 @@
     "phoneCode": "248",
     "capital": "Victoria",
     "currency": "SCR",
-    "mids": [664],
+    "mmsi": [664],
     "id": "SC",
     "ioc": "SEY",
     "bbox": [45.9988759,-10.4649258,56.4979396,-3.512]
@@ -2172,7 +2172,7 @@
     "phoneCode": "232",
     "capital": "Freetown",
     "currency": "SLL",
-    "mids": [667],
+    "mmsi": [667],
     "id": "SL",
     "ioc": "SLE",
     "bbox": [-13.5003389,6.755,-10.271683,9.999973]
@@ -2183,7 +2183,7 @@
     "phoneCode": "65",
     "capital": "Singapur",
     "currency": "SGD",
-    "mids": [563, 564, 565, 566],
+    "mmsi": [563, 564, 565, 566],
     "id": "SG",
     "ioc": "SIN",
     "bbox": [103.6920359,1.1304753,104.0120359,1.4504753]
@@ -2194,7 +2194,7 @@
     "phoneCode": "421",
     "capital": "Bratislava",
     "currency": "EUR",
-    "mids": [267],
+    "mmsi": [267],
     "id": "SK",
     "ioc": "SVK",
     "bbox": [16.8331891,47.7314286,22.56571,49.6138162]
@@ -2205,7 +2205,7 @@
     "phoneCode": "386",
     "capital": "Ljubljana",
     "currency": "EUR",
-    "mids": [278],
+    "mmsi": [278],
     "id": "SI",
     "ioc": "SLO",
     "bbox": [13.3754696,45.4214242,16.5967702,46.8766816]
@@ -2216,7 +2216,7 @@
     "phoneCode": "677",
     "capital": "Honiara",
     "currency": "SBD",
-    "mids": [557],
+    "mmsi": [557],
     "id": "SB",
     "ioc": "SOL",
     "bbox": [155.3190556,-13.2424298,170.3964667,-4.81085]
@@ -2227,7 +2227,7 @@
     "phoneCode": "252",
     "capital": "Mogadishu",
     "currency": "SOS",
-    "mids": [666],
+    "mmsi": [666],
     "id": "SO",
     "ioc": "SOM",
     "bbox": [40.98918,-1.8031969,51.6177696,12.1889121]
@@ -2238,7 +2238,7 @@
     "phoneCode": "27",
     "capital": "Pretoria",
     "currency": "ZAR",
-    "mids": [601],
+    "mmsi": [601],
     "id": "ZA",
     "ioc": "RSA",
     "bbox": [16.3335213,-47.1788335,38.2898954,-22.1250301]
@@ -2249,7 +2249,7 @@
     "phoneCode": null,
     "capital": "Grytviken",
     "currency": "GBP",
-    "mids": null,
+    "mmsi": null,
     "id": "GS",
     "ioc": null,
     "bbox": [-42.354739,-59.684,-25.8468303,-53.3500755]
@@ -2260,7 +2260,7 @@
     "phoneCode": "211",
     "capital": "Juba",
     "currency": "SSP",
-    "mids": [638],
+    "mmsi": [638],
     "id": "SS",
     "ioc": "SSD"
   },
@@ -2270,7 +2270,7 @@
     "phoneCode": "34",
     "capital": "Madrid",
     "currency": "EUR",
-    "mids": [224, 225],
+    "mmsi": [224, 225],
     "id": "ES",
     "ioc": "ESP",
     "bbox": [-18.3936845,27.4335426,4.5918885,43.9933088]
@@ -2281,7 +2281,7 @@
     "phoneCode": "94",
     "capital": "Colombo",
     "currency": "LKR",
-    "mids": [417],
+    "mmsi": [417],
     "id": "LK",
     "ioc": "SRI",
     "bbox": [79.3959205,5.719,82.0810141,10.035]
@@ -2292,7 +2292,7 @@
     "phoneCode": "249",
     "capital": "Khartoum",
     "currency": "SDG",
-    "mids": [662],
+    "mmsi": [662],
     "id": "SD",
     "ioc": "SUD",
     "bbox": [21.8145046,8.685278,39.0576252,22.224918]
@@ -2303,7 +2303,7 @@
     "phoneCode": "597",
     "capital": "Paramaribo",
     "currency": "SRD",
-    "mids": [765],
+    "mmsi": [765],
     "id": "SR",
     "ioc": "SUR",
     "bbox": [-58.070833,1.8312802,-53.8433358,6.225]
@@ -2314,7 +2314,7 @@
     "phoneCode": "47",
     "capital": "Longyearbyen",
     "currency": "NOK",
-    "mids": null,
+    "mmsi": null,
     "id": "SJ",
     "ioc": null,
     "bbox": [-9.6848146,70.6260825,34.6891253,81.028076]
@@ -2325,7 +2325,7 @@
     "phoneCode": "268",
     "capital": "Mbabane",
     "currency": "SZL",
-    "mids": null,
+    "mmsi": null,
     "id": "SZ",
     "ioc": "SWZ",
     "bbox": [30.7908,-27.3175201,32.1349923,-25.71876]
@@ -2336,7 +2336,7 @@
     "phoneCode": "46",
     "capital": "Stockholm",
     "currency": "SEK",
-    "mids": [265, 266],
+    "mmsi": [265, 266],
     "id": "SE",
     "ioc": "SWE",
     "bbox": [10.5930952,55.1331192,24.1776819,69.0599699]
@@ -2347,7 +2347,7 @@
     "phoneCode": "41",
     "capital": "Berne",
     "currency": "CHF",
-    "mids": [269],
+    "mmsi": [269],
     "id": "CH",
     "ioc": "SUI",
     "bbox": [5.9559113,45.817995,10.4922941,47.8084648]
@@ -2358,7 +2358,7 @@
     "phoneCode": "963",
     "capital": "Damascus",
     "currency": "SYP",
-    "mids": [468],
+    "mmsi": [468],
     "id": "SY",
     "ioc": "SYR",
     "bbox": [35.4714427,32.311354,42.3745687,37.3184589]
@@ -2369,7 +2369,7 @@
     "phoneCode": "886",
     "capital": "Taipei",
     "currency": "TWD",
-    "mids": [416],
+    "mmsi": [416],
     "id": "TW",
     "ioc": "TPE",
     "bbox": [114.3599058,10.374269,122.297,26.4372222]
@@ -2380,7 +2380,7 @@
     "phoneCode": "992",
     "capital": "Dushanbe",
     "currency": "TJS",
-    "mids": [472],
+    "mmsi": [472],
     "id": "TJ",
     "ioc": "TJK",
     "bbox": [67.3332775,36.6711153,75.1539563,41.0450935]
@@ -2391,7 +2391,7 @@
     "phoneCode": "255",
     "capital": "Dodoma",
     "currency": "TZS",
-    "mids": [673, 677],
+    "mmsi": [673, 677],
     "id": "TZ",
     "ioc": "TAN",
     "bbox": [29.3269773,-11.761254,40.6584071,-0.9854812]
@@ -2402,7 +2402,7 @@
     "phoneCode": "66",
     "capital": "Bangkok",
     "currency": "THB",
-    "mids": [567],
+    "mmsi": [567],
     "id": "TH",
     "ioc": "THA",
     "bbox": [97.3438072,5.612851,105.636812,20.4648337]
@@ -2413,7 +2413,7 @@
     "phoneCode": "228",
     "capital": "Lome",
     "currency": "XOF",
-    "mids": [671],
+    "mmsi": [671],
     "id": "TG",
     "ioc": "TOG",
     "bbox": [-0.1439746,5.926547,1.8087605,11.1395102]
@@ -2424,7 +2424,7 @@
     "phoneCode": "690",
     "capital": null,
     "currency": "NZD",
-    "mids": null,
+    "mmsi": null,
     "id": "TK",
     "ioc": null,
     "bbox": [-172.7213673,-9.6442499,-170.9797586,-8.3328631]
@@ -2435,7 +2435,7 @@
     "phoneCode": "676",
     "capital": "Nuku'alofa",
     "currency": "TOP",
-    "mids": [570],
+    "mmsi": [570],
     "id": "TO",
     "ioc": "TGA",
     "bbox": [-179.3866055,-24.1034499,-173.5295458,-15.3655722]
@@ -2446,7 +2446,7 @@
     "phoneCode": "+1-868",
     "capital": "Port of Spain",
     "currency": "TTD",
-    "mids": [362],
+    "mmsi": [362],
     "id": "TT",
     "ioc": "TTO",
     "bbox": [-62.083056,9.8732106,-60.2895848,11.5628372]
@@ -2457,7 +2457,7 @@
     "phoneCode": "216",
     "capital": "Tunis",
     "currency": "TND",
-    "mids": [672],
+    "mmsi": [672],
     "id": "TN",
     "ioc": "TUN",
     "bbox": [7.5219807,30.230236,11.8801133,37.7612052]
@@ -2468,7 +2468,7 @@
     "phoneCode": "90",
     "capital": "Ankara",
     "currency": "TRY",
-    "mids": [271],
+    "mmsi": [271],
     "id": "TR",
     "ioc": "TUR",
     "bbox": [25.6212891,35.8076804,44.8176638,42.297]
@@ -2479,7 +2479,7 @@
     "phoneCode": "993",
     "capital": "Ashgabat",
     "currency": "TMT",
-    "mids": [434],
+    "mmsi": [434],
     "id": "TM",
     "ioc": "TKM",
     "bbox": [52.335076,35.129093,66.6895177,42.7975571]
@@ -2490,7 +2490,7 @@
     "phoneCode": "+1-649",
     "capital": "Cockburn Town",
     "currency": "USD",
-    "mids": [364],
+    "mmsi": [364],
     "id": "TC",
     "ioc": null,
     "bbox": [-72.6799046,20.9553418,-70.8643591,22.1630989]
@@ -2501,7 +2501,7 @@
     "phoneCode": "688",
     "capital": "Funafuti",
     "currency": "AUD",
-    "mids": [572],
+    "mmsi": [572],
     "id": "TV",
     "ioc": "TUV",
     "bbox": [175.1590468,-9.9939389,178.7344938,-5.4369611]
@@ -2512,7 +2512,7 @@
     "phoneCode": "256",
     "capital": "Kampala",
     "currency": "UGX",
-    "mids": [675],
+    "mmsi": [675],
     "id": "UG",
     "ioc": "UGA",
     "bbox": [29.573433,-1.4823179,35.000308,4.2340766]
@@ -2523,7 +2523,7 @@
     "phoneCode": "380",
     "capital": "Kiev",
     "currency": "UAH",
-    "mids": [272],
+    "mmsi": [272],
     "id": "UA",
     "ioc": "UKR",
     "bbox": [22.137059,44.184598,40.2275801,52.3791473]
@@ -2534,7 +2534,7 @@
     "phoneCode": "971",
     "capital": "Abu Dhabi",
     "currency": "AED",
-    "mids": [470, 471],
+    "mmsi": [470, 471],
     "id": "AE",
     "ioc": "UAE",
     "bbox": [51.498,22.6444,56.3834,26.2822]
@@ -2545,7 +2545,7 @@
     "phoneCode": "44",
     "capital": "London",
     "currency": "GBP",
-    "mids": [232, 233, 234, 235, 608],
+    "mmsi": [232, 233, 234, 235, 608],
     "id": "GB",
     "ioc": "GBR",
     "bbox": [-14.015517,49.674,2.0919117,61.061]
@@ -2556,7 +2556,7 @@
     "phoneCode": "1",
     "capital": "Washington",
     "currency": "USD",
-    "mids": [303, 338, 366, 367, 368, 369],
+    "mmsi": [303, 338, 366, 367, 368, 369],
     "id": "US",
     "ioc": "USA",
     "bbox": [-125.0011,24.9493,-66.9326,49.5904]
@@ -2567,7 +2567,7 @@
     "phoneCode": "1",
     "capital": null,
     "currency": "USD",
-    "mids": null,
+    "mmsi": null,
     "id": "UM",
     "ioc": null,
     "bbox": [-162.6816297,6.1779744,-162.1339885,6.6514388]
@@ -2578,7 +2578,7 @@
     "phoneCode": "598",
     "capital": "Montevideo",
     "currency": "UYU",
-    "mids": [770],
+    "mmsi": [770],
     "id": "UY",
     "ioc": "URU",
     "bbox": [-58.4948438,-35.7824481,-53.0755833,-30.0853962]
@@ -2589,7 +2589,7 @@
     "phoneCode": "998",
     "capital": "Tashkent",
     "currency": "UZS",
-    "mids": [437],
+    "mmsi": [437],
     "id": "UZ",
     "ioc": "UZB",
     "bbox": [55.9977865,37.1821164,73.1397362,45.590118]
@@ -2600,7 +2600,7 @@
     "phoneCode": "678",
     "capital": "Port Vila",
     "currency": "VUV",
-    "mids": [576, 577],
+    "mmsi": [576, 577],
     "id": "VU",
     "ioc": "VAN",
     "bbox": [166.3355255,-20.4627425,170.449982,-12.8713777]
@@ -2611,7 +2611,7 @@
     "phoneCode": "379",
     "capital": "Vatican City",
     "currency": "EUR",
-    "mids": [208],
+    "mmsi": [208],
     "id": "VA",
     "ioc": null,
     "bbox": [12.4457442,41.9002044,12.4583653,41.9073912]
@@ -2622,7 +2622,7 @@
     "phoneCode": "58",
     "capital": "Caracas",
     "currency": "VEF",
-    "mids": [775],
+    "mmsi": [775],
     "id": "VE",
     "ioc": "VEN",
     "bbox": [-73.3529632,0.647529,-59.5427079,15.9158431]
@@ -2633,7 +2633,7 @@
     "phoneCode": "84",
     "capital": "Hanoi",
     "currency": "VND",
-    "mids": [574],
+    "mmsi": [574],
     "id": "VN",
     "ioc": "VIE",
     "bbox": [102.14441,8.1790665,114.3337595,23.393395]
@@ -2644,7 +2644,7 @@
     "phoneCode": "+1-284",
     "capital": "Road Town",
     "currency": "USD",
-    "mids": [378],
+    "mmsi": [378],
     "id": "VG",
     "ioc": "IVB",
     "bbox": [-65.159094,17.623468,-64.512674,18.464984]
@@ -2655,7 +2655,7 @@
     "phoneCode": "+1-340",
     "capital": "Charlotte Amalie",
     "currency": "USD",
-    "mids": [379],
+    "mmsi": [379],
     "id": "VI",
     "ioc": "ISV",
     "bbox": [-65.159094,17.623468,-64.512674,18.464984]
@@ -2666,7 +2666,7 @@
     "phoneCode": "681",
     "capital": "Mata Utu",
     "currency": "XPF",
-    "mids": [578],
+    "mmsi": [578],
     "id": "WF",
     "ioc": null,
     "bbox": [-178.3873749,-14.5630748,-175.9190391,-12.9827961]
@@ -2677,7 +2677,7 @@
     "phoneCode": "212",
     "capital": "El-Aaiun",
     "currency": "MAD",
-    "mids": null,
+    "mmsi": null,
     "id": "EH",
     "ioc": null,
     "bbox": [-17.3494721,20.556883,-8.666389,27.6666834]
@@ -2688,7 +2688,7 @@
     "phoneCode": "967",
     "capital": "Sanaa",
     "currency": "YER",
-    "mids": [473, 475],
+    "mmsi": [473, 475],
     "id": "YE",
     "ioc": "YEM",
     "bbox": [41.60825,11.9084802,54.7389375,19]
@@ -2699,7 +2699,7 @@
     "phoneCode": "260",
     "capital": "Lusaka",
     "currency": "ZMK",
-    "mids": [678],
+    "mmsi": [678],
     "id": "ZM",
     "ioc": "ZAM",
     "bbox": [21.9993509,-18.0765945,33.701111,-8.2712822]
@@ -2710,7 +2710,7 @@
     "phoneCode": "263",
     "capital": "Harare",
     "currency": "ZWL",
-    "mids": [679],
+    "mmsi": [679],
     "id": "ZW",
     "ioc": "ZIM",
     "bbox": [25.2373,-22.4241096,33.0683413,-15.6097033]
