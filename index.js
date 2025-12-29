@@ -12,7 +12,7 @@ async function factory (pkgName) {
    *
    * @class
    */
-  class BajoCommonDb extends this.app.pluginClass.base {
+  class BajoCommonDb extends this.app.baseClass.Base {
     static alias = 'cdb'
 
     constructor () {
