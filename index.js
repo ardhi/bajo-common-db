@@ -13,8 +13,6 @@ async function factory (pkgName) {
    * @class
    */
   class BajoCommonDb extends this.app.baseClass.Base {
-    static alias = 'cdb'
-
     constructor () {
       super(pkgName, me.app)
       this.config = {
