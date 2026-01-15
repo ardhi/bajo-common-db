@@ -19,6 +19,17 @@ async function factory (pkgName) {
         title: 'Common Database'
       }
     }
+
+    getCountryByMmsi = (mmsi, returnRec = false) => {
+      if (!this.app.dobo) return
+      // this won't use Dobo's model interface, it scans directly on memdb storage instead
+      const head = parseInt(mmsi.slice(0, 3))
+      const instance = this.app.dobo.getModel('CdbCountry', true)
+      if (!instance) return
+      const country = instance.driver.storage.CdbCountry.find(item => (item.mmsi ?? []).includes(head))
+      if (returnRec) return country
+      return country ? country._id : undefined
+    }
   }
 
   return BajoCommonDb
