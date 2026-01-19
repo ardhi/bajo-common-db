@@ -1,5 +1,9 @@
 # Changes
 
+## 2026-01-19
+
+- [2.2.2] Add some missing translations
+
 ## 2026-01-15
 
 - [2.2.1] Add method ```getCountryByMmsi()```

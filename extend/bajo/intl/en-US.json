@@ -1,4 +1,6 @@
 {
+  "bajoCommonDb": "Common Database",
+  "cdbCountry": "Country",
   "field": {
     "iso3": "ISO 3",
     "phoneCode": "Phone Code",
