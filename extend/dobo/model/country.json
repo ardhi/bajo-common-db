@@ -12,5 +12,8 @@
     "bbox,array"
   ],
   "disabled": "readonly",
-  "attachment": false
+  "options": {
+    "attachment": false,
+    "persistence": false
+  }
 }

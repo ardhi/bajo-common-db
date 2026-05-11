@@ -1,5 +1,9 @@
 # Changes
 
+## 2026-05-11
+
+- [2.3.0] Change model ```country.json``` to use the new ```options``` key
+
 ## 2026-01-19
 
 - [2.2.2] Add some missing translations
