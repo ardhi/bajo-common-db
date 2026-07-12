@@ -26,7 +26,7 @@ async function factory (pkgName) {
       const head = parseInt(mmsi.slice(0, 3))
       const instance = this.app.dobo.getModel('CdbCountry', true)
       if (!instance) return
-      const country = instance.driver.storage.CdbCountry.find(item => (item.mmsi ?? []).includes(head))
+      const country = instance.adapter.storage.CdbCountry.find(item => (item.mmsi ?? []).includes(head))
       if (returnRec) return country
       return country ? country._id : undefined
     }

@@ -1,5 +1,9 @@
 # Changes
 
+## 2026-07-12
+
+- [2.4.0] Update `driver` to `adapter`
+
 ## 2026-05-11
 
 - [2.3.0] Change model ```country.json``` to use the new ```options``` key
